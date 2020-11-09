@@ -1,0 +1,3 @@
+include ':test_sdk'
+include ':app'
+rootProject.name = "Test_On_SDK"
